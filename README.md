@@ -1,7 +1,7 @@
 # Alternative Music Notation
 This repo contains documents that demonstrate two alternatives to western music notations
 
-The alternatives are saved as svgs, and they can be viewed full screen by clicking the raw button in the top right hand corner of the preview window.
+The alternatives are saved as svgs, and they can be viewed full screen by clicking the raw button in the top right hand corner of the github preview window.
 
 [Octave-staff.svg](https://github.com/CLeJack/alternative-music-notation/blob/main/octave-staff.svg) is very close to traditional western notation, and it only _slightly_ modifies the current concepts associated with staves and clefs to, hopefully, make sight reading simpler.
 
