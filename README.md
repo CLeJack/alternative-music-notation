@@ -3,7 +3,7 @@ This repo contains documents that demonstrate two alternatives to western music 
 
 The alternatives are saved as svgs, and they can be viewed full screen by clicking the raw button in the top right hand corner of the github preview window.
 
-[Octave-staff.svg](https://github.com/CLeJack/alternative-music-notation/blob/main/octave-staff.svg) is very close to traditional western notation, and it only _slightly_ modifies the current concepts associated with staves and clefs to, hopefully, make sight reading simpler.
+[Octave-staff.svg](https://github.com/CLeJack/alternative-music-notation/blob/main/octave-staff.svg) is very close to traditional western notation, and it only _slightly_ modifies the current concepts associated with staves and clefs to, hopefully, make sight reading easier.
 
 [Alpha-notation.svg](https://github.com/CLeJack/alternative-music-notation/blob/main/alpha-notation.svg) is a much more radical change that was meant to replace tracker software (Proto DAWs such as LSDJ), not western notation, but as I was writing the idea down on paper, I realized it would be a good transcription tool.
 
